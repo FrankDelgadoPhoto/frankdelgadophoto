@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Hi! Im Frank Delgado. Video editor, photographer and audiovisual producer with over 10 years of experience creating content for television, social media, and corporate projects. Specializing in impactful visual narratives, advanced editing, and visual effects design using software such as Adobe Premiere Pro, After Effects, and DaVinci Resolve. Focused on delivering creative solutions that enhance quality and viewer experience.
 <!--
 **FrankDelgadoPhoto/frankdelgadophoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
